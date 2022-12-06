@@ -86,6 +86,7 @@ export const stats = [
     title: "Transaction",
     value: "$230M+",
   },
+  
 ];
 
 export const footerLinks = [
